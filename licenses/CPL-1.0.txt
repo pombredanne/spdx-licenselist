@@ -8,22 +8,22 @@ CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
 "Contribution" means:
 
-a) in the case of the initial Contributor, the initial code and
-documentation distributed under this Agreement, and
+ a) in the case of the initial Contributor, the initial code and
+ documentation distributed under this Agreement, and
 
-b) in the case of each subsequent Contributor:
+ b) in the case of each subsequent Contributor:
 
-i) changes to the Program, and
+   i) changes to the Program, and
 
-ii) additions to the Program;
+   ii) additions to the Program;
 
-where such changes and/or additions to the Program originate from and are
-distributed by that particular Contributor. A Contribution 'originates' from a
-Contributor if it was added to the Program by such Contributor itself or anyone
-acting on such Contributor's behalf. Contributions do not include additions to
-the Program which: (i) are separate modules of software distributed in
-conjunction with the Program under their own license agreement, and (ii) are not
-derivative works of the Program.
+   where such changes and/or additions to the Program originate from and are
+   distributed by that particular Contributor. A Contribution 'originates' from a
+   Contributor if it was added to the Program by such Contributor itself or anyone
+   acting on such Contributor's behalf. Contributions do not include additions to
+   the Program which: (i) are separate modules of software distributed in
+   conjunction with the Program under their own license agreement, and (ii) are not
+   derivative works of the Program.
 
 "Contributor" means any person or entity that distributes the Program.
 

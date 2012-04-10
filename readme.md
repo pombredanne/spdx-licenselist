@@ -15,8 +15,17 @@ Description
 -----------
 The text file name is the license ID appended with a ".txt" and encoded in UTF-8. The Excelsheet contains some related Metadata. 
 
+
+ToDo
+----
+* create a debian and openembedded/yocto package
+
 ChangeLog
 ---------
+1.15
+
+* import http://spdx.org/system/files/spdx-liclist_1.15.zip
+
 1.14
 
 * import http://spdx.org/system/files/spdx_licenselist_1.14_0.zip

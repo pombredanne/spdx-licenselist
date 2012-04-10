@@ -1,5 +1,5 @@
 CUA Office Public License Version 1.0
-(plain text)
+
 1. Definitions.
 
 1.0.1. "Commercial Use" means distribution or otherwise making the
@@ -283,25 +283,27 @@ CUA Office Project may publish revised
 and/or new versions of the License from time to time. Each version
 will be given a distinguishing version number.
 
-6.2. Effect of New Versions.
-Once Covered Code has been published under a particular version of the
-License, You may always continue to use it under the terms of that
-version. You may also choose to use such Covered Code under the terms
-of any subsequent version of the License published by CUA Office Project. No one
-other than CUA Office Project has the right to modify the terms applicable to
-Covered Code created under this License.
+6.2. Effect of New Versions.  
+Once Covered Code has been published
+under a particular version of the License, You may always continue to
+use it under the terms of that version. You may also choose to use
+such Covered Code under the terms of any subsequent version of the
+License published by CUA Office Project. No one other than CUA Office
+Project has the right to modify the terms applicable to Covered Code
+created under this License.
 
-6.3. Derivative Works.
-If You create or use a modified version of this License (which you may
-only do in order to apply it to code which is not already Covered Code
-governed by this License), You must (a) rename Your license so that
-the phrases "CUA Office", "CUA", "CUAPL", or any confusingly similar phrase do not appear in your
-license (except to note that your license differs from this License)
-and (b) otherwise make it clear that Your version of the license
-contains terms which differ from the CUA Office Public License. (Filling in the name of the Initial
-Developer, Original Code or Contributor in the notice described in
-Exhibit A shall not of themselves be deemed to be modifications of
-this License.)
+6.3. Derivative Works.  
+If You create or use a modified version of
+this License (which you may only do in order to apply it to code which
+is not already Covered Code governed by this License), You must (a)
+rename Your license so that the phrases "CUA Office", "CUA", "CUAPL",
+or any confusingly similar phrase do not appear in your license
+(except to note that your license differs from this License) and (b)
+otherwise make it clear that Your version of the license contains
+terms which differ from the CUA Office Public License. (Filling in the
+name of the Initial Developer, Original Code or Contributor in the
+notice described in Exhibit A shall not of themselves be deemed to be
+modifications of this License.)
 
 7. DISCLAIMER OF WARRANTY.
 
@@ -434,7 +436,7 @@ by the Initial Developer in the file described in Exhibit A.
 
 EXHIBIT A - CUA Office Public License.
 
-``The contents of this file are subject to the CUA Office Public License
+"The contents of this file are subject to the CUA Office Public License
 Version 1.0 (the "License"); you may not use this file except in
 compliance with the License. You may obtain a copy of the License at
 http://cuaoffice.sourceforge.net/

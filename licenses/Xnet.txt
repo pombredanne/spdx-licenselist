@@ -1,5 +1,4 @@
 The X.Net, Inc. License
-This License has been voluntarily deprecated by its author.
 
 Copyright (c) 2000-2001 X.Net, Inc. Lafayette, California, USA
 

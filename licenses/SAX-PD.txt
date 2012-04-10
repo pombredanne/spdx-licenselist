@@ -1,4 +1,4 @@
-Copyright Status for SAX
+Copyright Status
 
 SAX is free!
 
