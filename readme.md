@@ -1,4 +1,4 @@
-PDX License List
+SPDX License List
 -----------------
 
 [Software Package Data Exchange®] (http://spdx.org/) licenses
@@ -6,8 +6,8 @@ PDX License List
 created by [SPDX Legal Team] (http://spdx.org/wiki/spdx/legal)
 
 further Info:
-* http://spdx.org/wiki/spdx-license-list
-* http://spdx.org/wiki/spdx-license-list-match-guidelines
+ * http://spdx.org/wiki/spdx-license-list
+ * http://spdx.org/wiki/spdx-license-list-match-guidelines
 
 Description
 -----------
@@ -17,7 +17,7 @@ The Excelsheet contains some related Metadata.
 ChangeLog
 ---------
 1.14
-* import http://spdx.org/system/files/spdx_licenselist_1.14_0.zip
-* minor changes: create licenses folder, remove version from Excelsheet.
+ * import http://spdx.org/system/files/spdx_licenselist_1.14_0.zip
+ * minor changes: create licenses folder, remove version from Excelsheet.
 
 
