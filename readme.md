@@ -7,7 +7,8 @@ created by [SPDX Legal Team] (http://spdx.org/wiki/spdx/legal)
 
 further Info:
 
-* http://spdx.org/wiki/spdx-license-list
+* http://spdx.org/licenses/
+* http://spdx.org/content/spdx-license-list-process-requesting-new-licenses-be-added
 * http://spdx.org/wiki/spdx-license-list-match-guidelines
 
 
