@@ -7,7 +7,8 @@ created by [SPDX Legal Team] (http://spdx.org/wiki/spdx/legal)
 
 further Info:
 
-* http://spdx.org/wiki/spdx-license-list
+* http://spdx.org/licenses/
+* http://spdx.org/content/spdx-license-list-process-requesting-new-licenses-be-added
 * http://spdx.org/wiki/spdx-license-list-match-guidelines
 
 
@@ -19,6 +20,7 @@ The text file name is the license ID appended with a ".txt" and encoded in UTF-8
 ToDo
 ----
 * create a debian and openembedded/yocto package
+* convert spdx_licenselist.xls to a json or xml format
 
 ChangeLog
 ---------
