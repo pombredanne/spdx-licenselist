@@ -24,6 +24,9 @@ ToDo
 
 ChangeLog
 ---------
+1.16
+* import http://spdx.org/system/files/spdx_license_list_v1.16_1.zip
+
 1.15
 
 * import http://spdx.org/system/files/spdx-liclist_1.15.zip
