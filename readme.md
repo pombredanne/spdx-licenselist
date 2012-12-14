@@ -17,11 +17,6 @@ Description
 The text file name is the license ID appended with a ".txt" and encoded in UTF-8. The Excelsheet contains some related Metadata. 
 
 
-ToDo
-----
-* create a debian and openembedded/yocto package
-* convert spdx_licenselist.xls to a json or xml format
-
 ChangeLog
 ---------
 1.16
