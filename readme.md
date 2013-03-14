@@ -19,6 +19,9 @@ The text file name is the license ID appended with a ".txt" and encoded in UTF-8
 
 ChangeLog
 ---------
+1.17
+* import http://spdx.org/system/files/spdx_license_list_v1.17.zip
+
 1.16
 * import http://spdx.org/system/files/spdx_license_list_v1.16_1.zip
 
