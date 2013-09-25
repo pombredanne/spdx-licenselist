@@ -4,11 +4,12 @@ Version 2, June 1991
 
 Copyright (C) 1991 Free Software Foundation, Inc.
 51 Franklin St, Fifth Floor, Boston, MA  02110-1301, USA
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 [This is the first released version of the library GPL.  It is
  numbered 2 because it goes with version 2 of the ordinary GPL.]
+
 Preamble
 
 The licenses for most software are designed to take away your freedom to share and change it. By contrast, the GNU General Public Licenses are intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.
@@ -61,6 +62,7 @@ a) The modified work must itself be a software library.
 b) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
 c) You must cause the whole of the work to be licensed at no charge to all third parties under the terms of this License.
 d) If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility, other than as an argument passed when the facility is invoked, then you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates, and performs whatever part of its purpose remains meaningful.
+
 (For example, a function in a library to compute square roots has a purpose that is entirely well-defined independent of the application. Therefore, Subsection 2d requires that any application-supplied function or table used by this function must be optional: if the application does not supply it, the square root function must still compute square roots.)
 
 These requirements apply to the modified work as a whole. If identifiable sections of that work are not derived from the Library, and can be reasonably considered independent and separate works in themselves, then this License, and its terms, do not apply to those sections when you distribute them as separate works. But when you distribute the same sections as part of a whole which is a work based on the Library, the distribution of the whole must be on the terms of this License, whose permissions for other licensees extend to the entire whole, and thus to each and every part regardless of who wrote it.
@@ -97,6 +99,7 @@ a) Accompany the work with the complete corresponding machine-readable source co
 b) Accompany the work with a written offer, valid for at least three years, to give the same user the materials specified in Subsection 6a, above, for a charge no more than the cost of performing this distribution.
 c) If distribution of the work is made by offering access to copy from a designated place, offer equivalent access to copy the above specified materials from the same place.
 d) Verify that the user has already received a copy of these materials or that you have already sent this user a copy.
+
 For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it. However, as a special exception, the source code distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
 
 It may happen that this requirement contradicts the license restrictions of other proprietary libraries that do not normally accompany the operating system. Such a contradiction means you cannot use both them and the Library together in an executable that you distribute.

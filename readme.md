@@ -8,9 +8,9 @@ created by [SPDX Legal Team] (http://spdx.org/wiki/spdx/legal)
 further Info:
 
 * http://spdx.org/licenses/
-* http://spdx.org/content/spdx-license-list-process-requesting-new-licenses-be-added
+* http://spdx.org/spdx-license-list/request-new-licenses
   * example request: http://lists.spdx.org/pipermail/spdx-legal/2012-October/000701.html
-* http://spdx.org/wiki/spdx-license-list-match-guidelines
+* http://spdx.org/spdx-license-list/matching-guidelines
 
 
 Description
@@ -20,6 +20,12 @@ The text file name is the license ID appended with a ".txt" and encoded in UTF-8
 
 ChangeLog
 ---------
+1.19
+* import 1.19 from http://git.spdx.org/license-list.git
+
+1.18
+* import http://spdx.org/system/files/spdx_license_list_v1.17.zip
+
 1.17
 * import http://spdx.org/system/files/spdx_license_list_v1.17.zip
 

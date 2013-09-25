@@ -26,8 +26,8 @@ The SugarCRM Public License Version ("SPL") consists of the Mozilla Public Licen
 1.8.1. "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently acquired, any and all of the rights conveyed herein.
 
 1.9. ''Modifications'' means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. When Covered Code is released as a series of files, a Modification is:
-
-B. Any new file that contains any part of the Original Code or previous Modifications.
+	A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
+	B. Any new file that contains any part of the Original Code or previous Modifications.
 
 1.10.1. "Patent Claims" means any patent claim(s), now owned or hereafter acquired, including without limitation, method, process, and apparatus claims, in any patent Licensable by grantor.
 
